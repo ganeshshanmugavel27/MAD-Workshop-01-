@@ -1,4 +1,15 @@
 ## MAD_Workshop-01-Develop-an-android-application-to-pass-the-data-between-the-activities-using-Intent.
+## Aim:
+Develop an Android application to pass data between activities using Intent.
+
+## Algorithm:
+
+Create two activities: Activity A and Activity B.
+Define UI elements in both activities to input and display data.
+Implement an Intent in Activity A to pass data to Activity B.
+Retrieve the data in Activity B using Intent extras.
+Display the received data in Activity B.
+Optionally, handle cases for data validation and error handling.
 ## MainActivity.java:
 ```
 package com.example.mad_workshop1;
